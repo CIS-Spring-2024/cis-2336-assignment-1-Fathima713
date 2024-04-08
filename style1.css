@@ -1,0 +1,90 @@
+body {
+    font-family: cursive;
+    color: black;
+    text-align: center;
+    background-color: rgb(248, 244, 244);
+    margin: 0;
+}
+
+header {
+    background-color: darkorchid;
+    color: aliceblue;
+    height: 150px;
+    margin: 0; 
+}
+
+footer {
+
+    background-color: darkorchid;
+    padding: 20px;
+    text-align: center;
+    margin-top: 587px;
+    color: aliceblue;
+}
+
+.description {
+    padding-left: 40px;
+    padding-right: 40px;
+    display: inline-block;
+    text-align: justify;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+.logo-image {
+    height: 150px;
+    width: 150px;
+    margin-top: 0;
+    margin-left: 0;
+    float: left;
+}
+
+nav ul {
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.topnav {
+    background-color: darkorchid;
+    overflow: hidden;
+}
+
+.cafe-image {
+    margin: 0;
+    width: 100%;
+}
+.text{
+    color: black;
+    font-size: 3em;
+    text-align: left;
+}
+.first_div{
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+.second_dic{
+    float: right;
+    width: 50%;
+}
+.third_div{
+    float: left;
+    width: 50%;
+    
+}
+.fourth_div{
+    float: right;
+    width: 50%;
+}
+
+    
